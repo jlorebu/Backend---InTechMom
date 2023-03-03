@@ -1,0 +1,9 @@
+const myDog = {
+  // Cambia solo el código debajo de esta línea
+  "name": "Grau",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["Noir", "Oddie", "Luna", "Oreo"]
+
+  // Cambia solo el código encima de esta línea
+};
